@@ -1,0 +1,44 @@
+#avatar_add {
+	position: relative;
+	left: -500px;
+}
+
+#messages {
+	position: relative;
+	top: -350px;
+	left: 200px;
+	width: 200px;
+	background-color: rgba(0, 0, 0, 0.6);
+	font-size: 14px;
+	color: #FFFFFF;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	margin: 5px;
+	
+}
+
+html,body {
+	background-color: #000000;
+}
+
+h1,h2,h3,h4,h5,p,span,pre,a {
+	color: #FFFFFF;
+}
+
+#sincerelyEdit {
+	float: right;
+	width: 100px;
+}
+
+#aviaryEdit {
+	float: left;
+	width: 100px;
+}
+
+.clear {
+	clear: both;
+}
+
+a {
+	border: none;
+}
